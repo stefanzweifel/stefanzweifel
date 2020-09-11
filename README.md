@@ -8,7 +8,7 @@ I write on [my blog](https://stefanzweifel.io/) about programming and productivi
 ### Currently working on
 
 - 📈 [laravel-stats](https://github.com/stefanzweifel/laravel-stats): A PHP package to get insights about your Laravel or Lumen Project. It will show you how many Controllers, Models etc. you're using
-- 📸 screeenly v3: SaaS to generate screenshots, PDFs and more from websites or raw HTML code. (It will be the successor to the [open-source version](https://github.com/stefanzweifel/screeenly) I've built in the past)
+- 📸 screeenly v3: SaaS to generate screenshots, PDFs and more from websites or raw HTML code. Check it out: [3.screeenly.com](https://3.screeenly.com)
 - 🐙 [git-auto-commit Action](https://github.com/stefanzweifel/git-auto-commit-action): A GitHub Action which will commit and push changes in a repository back to GitHub. A perfect way to let Actions lint and fix your code.
 
 
