@@ -10,6 +10,6 @@ I write on [my blog](https://stefanzweifel.io/) about programming and productivi
 - 📈 [laravel-stats](https://github.com/stefanzweifel/laravel-stats): A PHP package to get insights about your Laravel or Lumen Project. It will show you how many Controllers, Models etc. you're using
 - 📸 screeenly v3: SaaS to generate screenshots, PDFs and more from websites or raw HTML code. Check it out: [3.screeenly.com](https://3.screeenly.com)
 - 🐙 [git-auto-commit Action](https://github.com/stefanzweifel/git-auto-commit-action): A GitHub Action which will commit and push changes in a repository back to GitHub. A perfect way to let Actions lint and fix your code.
-
+- [changelog-updater Action](https://github.com/stefanzweifel/changelog-updater-action): A GitHub Action to update a changelog with the latest release notes. 
 
 I also love tinkering with new software ideas when I have a free hour. Most of those projects aren't ready to share yet. 😅
