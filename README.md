@@ -20,5 +20,5 @@ I also regularly write on my blog [stefanzweifel.dev](http://stefanzweifel.dev/)
 
 I **love** working on open-source projects. Whether it's writing code, writing documentation or helping out in the issue tracker or discussions in my projects. This type of work brings a great joy to my life as I can help other people reach their goals through software.
 
-Thanks for visiting! ❤️
+Thanks for visiting! ❤️   
 \- Stefan
